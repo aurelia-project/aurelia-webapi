@@ -1,0 +1,8 @@
+/home/ali/Projects/aurelia/auapi/bin/Debug/netcoreapp1.1/auapi.deps.json
+/home/ali/Projects/aurelia/auapi/bin/Debug/netcoreapp1.1/auapi.runtimeconfig.json
+/home/ali/Projects/aurelia/auapi/bin/Debug/netcoreapp1.1/auapi.runtimeconfig.dev.json
+/home/ali/Projects/aurelia/auapi/bin/Debug/netcoreapp1.1/auapi.dll
+/home/ali/Projects/aurelia/auapi/bin/Debug/netcoreapp1.1/auapi.pdb
+/home/ali/Projects/aurelia/auapi/obj/Debug/netcoreapp1.1/auapi.AssemblyInfo.cs
+/home/ali/Projects/aurelia/auapi/obj/Debug/netcoreapp1.1/auapi.dll
+/home/ali/Projects/aurelia/auapi/obj/Debug/netcoreapp1.1/auapi.pdb
